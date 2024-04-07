@@ -1,0 +1,28 @@
+. {font-family: Roboto;}
+
+.navbar-brand {
+    margin: auto
+}
+
+img {width: 15%;}
+
+.col-md-5 {
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.btn {
+    background-color: purple ;
+}
+
+.btn-secondary {
+    background-color: gold;
+}
+
+.input-group {
+}
+
+.btn-tertiary {
+    background-color: black;
+    color: white;
+}
